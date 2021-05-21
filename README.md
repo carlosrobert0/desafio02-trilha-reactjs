@@ -26,4 +26,6 @@ yarn
 yarn server
 ```
 
+Perceba que ele iniciou uma fake API com os recursos /genres e /movies em localhost na porta 3333 a partir das informações do arquivo server.json localizado na raiz do seu projeto. Acessando essas rotas no seu navegador, você consegue ver o retorno das informações já em JSON 
+
 Como deve ficar a aplicação ao final?
